@@ -1,4 +1,4 @@
 my-project
 ==========
 
-This is my project to test Githu!
+This is my project to test Github!
